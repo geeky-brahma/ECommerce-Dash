@@ -1,4 +1,4 @@
-# Funky E-commerce PowerBI Dashboard 🕺
+# E-commerce PowerBI Dashboard 🕺
 
 Welcome to E-commerce PowerBI Dashboard! 🎉
 
