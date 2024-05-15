@@ -8,11 +8,11 @@ This dashboard is where the magic happens! We've poured in your CSV data like a 
 ## What's Inside
 ### Tables
 #### 1. Table Details
-- **Amount**: The moolah! 💰
+- **Amount**: The cash! 💰
 - **Category**: Where the product belongs in the aisle.
 - **Order ID**: Your unique order identifier.
 - **PaymentMode**: How they're splashing the cash.
-- **Profit**: Cha-ching! More moolah!
+- **Profit**: More cash!
 - **Quantity**: How much stuff they're buying.
 - **Sub-Category**: The finer details of what they're buying.
 
