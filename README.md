@@ -1,6 +1,6 @@
-# Funky E-commerce PowerBI Dashboard Readme 🕺
+# Funky E-commerce PowerBI Dashboard 🕺
 
-Welcome to our groovy E-commerce PowerBI Dashboard! 🎉
+Welcome to E-commerce PowerBI Dashboard! 🎉
 
 ## Overview
 This dashboard is where the magic happens! We've poured in your CSV data like a master DJ spinning records, and now you can visualize your e-commerce performance like never before.
